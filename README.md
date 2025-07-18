@@ -1,32 +1,41 @@
 # 👋 Hi, I'm Awais Qarni
 
-🎓 Pharm-D Student | 💊 Digital Health Enthusiast | 💻 Self-Taught Coder
+🎓 Pharm-D Student | 💻 Tech Explorer | 📚 Lifelong Learner
 
-I’m on a journey to combine **medicine + technology** to solve real-world problems.  
-learning **Python** and web development.  
+I’m a pharmacy student with a deep interest in how technology can improve healthcare and education.  
+Currently learning **Python**, **Web Development**, and **Medical Data Skills** to build a meaningful and future-ready skillset.
 
 ---
 
-## 🚀 Current Goals
+## 🚀 What I'm Working On
 
-- Build and launch my first full GitHub project 🚧  
-- Learn full-stack development (HTML, CSS, JavaScript, Python)  
-- Grow my presence as a **med-tech creator**
+- Practicing Python and basic web development  
+- Creating small, useful tools to support learning and health education  
+- Exploring ways to apply data science in pharmacy and life sciences  
+- Preparing to contribute to open-source health and education projects
 
 ---
 
 ## 💼 Skills I'm Learning
 
-- Python (beginner stage)
-- HTML / CSS / JavaScript (basic level)
-- Git & GitHub (learning version control)
-- Canva & content creation
-- Medical data interpretation
-- Biostatistics + drug information analysis
+- Python (basic scripting, logic building)
+- HTML, CSS, JavaScript (foundations of web dev)
+- Git & GitHub (version control & project sharing)
+- Visual tools (Canva, PowerPoint, content design)
+- Medical subjects (anatomy, pharmacology, biostatistics)
 
 ---
 
-## 📊 GitHub Stats (Once You Start Uploading)
+## 🧠 Learning Goals
+
+- Build a personal project portfolio (tools, notes, helpers)
+- Apply coding to solve real-world healthcare/education problems
+- Develop confidence in GitHub, version control, and collaboration
+- Prepare for internships, freelancing, or digital entrepreneurship
+
+---
+
+## 📊 GitHub Stats (When Projects Are Public)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=awaisqarni&show_icons=true&theme=default" width="50%" />
@@ -36,9 +45,10 @@ learning **Python** and web development.
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn: Awais Qarni](https://linkedin.com/in/muhammadowaisqarni/) _(Update this link)_
-- 🌐 [My future website](https://your-domain.com) _(Coming soon...)_
+- 💼 Linkedin(https://linkedin.com/in/muhammadowaisqarni/)) <!-- Update this -->
+- 📧 Email: muhammadowaisqarni04@gmail.com <!-- Optional -->
 
 ---
 
-> – Awais Qarni, Pharm-D
+> 💬 “Learning is my daily prescription.”  
+> — Awais Qarni
